@@ -1,4 +1,4 @@
-# springboot_boad
+# springboot_board
 
 ## 説明
 Spring Bootで作成した掲示板
